@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.md text eol=lf
+*.yaml text eol=lf
+references/医疗HIS系统通用PRD生成指令.md -text -whitespace

@@ -1,0 +1,4 @@
+interface:
+  display_name: "医疗 HIS PRD"
+  short_description: "先分析住院业务并等待明确确认，再生成覆盖字段、回滚、状态和权限的开发级 PRD"
+  default_prompt: "使用 $medical-his-prd 分析我提供的 HIS 原型图或功能描述，先输出第一阶段结构化分析并等待我的明确确认。"
